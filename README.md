@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mattepstein1
-- 👀 I’m interested in software development
+- 👀 I’m a graduated Software Developer
 - 🌱 I’m currently increasing my learning in web based & OOP Programming.
 - 💞️ I’m looking to collaborate on projects that will extend my learning in multiple languages
